@@ -1,0 +1,4 @@
+body{ display: inline-flex; background: orange;}
+    .basic, .withOptions{margin: 0 50px;}
+    .basic div, .withOptions div {width: 500px;height: 250px;}
+    img {width: 100%;}
